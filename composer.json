@@ -4,7 +4,7 @@
     "description": "Set UUID before save on Yii 2 models",
     "keywords": ["Yii2","uuid","before","save","beforesave"],
     "homepage": "http://github.com/mootensai/yii2-uuid-behavior",
-    "license": ""BSD-3-Clause",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Yohanes Candrajaya",
