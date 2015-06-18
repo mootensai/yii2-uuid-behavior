@@ -4,8 +4,13 @@ namespace mootensai\behaviors;
 
 use yii\base\Behavior;
 use yii\db\ActiveRecord;
+/*
+ * UUID Behavior will set your ID with UUID
+ * @author Yohanes Candrajaya <moo.tensai@gmail.com>
+ * @author Jiwantoro Ndaru <jiwanndaru@gmail.com>
+ */
 
-class UUIDBehaviors extends Behavior {
+class UUIDBehavior extends Behavior {
     /**
      * Field/Column yang akan diisi UUID
      * Default -> id
